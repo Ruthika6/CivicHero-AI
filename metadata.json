@@ -1,0 +1,12 @@
+{
+  "name": "CivicHero AI",
+  "description": "CivicHero AI is an intelligent hyperlocal civic operating system that allows citizens to report, track, and resolve community problems using automated AI agents, custom analytics, maps, and local verification structures.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
